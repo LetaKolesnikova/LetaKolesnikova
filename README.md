@@ -15,10 +15,10 @@ Detail-oriented and motivated Sourcing Specialist with 1.5 years of experience i
 - `Python` 
 - `Statistics Basics`
 ## Experience: 
-Sourcing Specialist(Freelance) -  August 2022 - March 2024 
-Description: ...
-Doctor                         - August 2019 - August 2024
-Description: ...
+- Sourcing Specialist(Freelance) -  August 2022 - March 2024 
+- Description: ...
+- Doctor                         - August 2019 - August 2024
+- Description: ...
 ## Education: 
 Grodno State Medical University 2013-2019
 ## Courses:
