@@ -19,7 +19,7 @@ Detail-oriented and motivated Sourcing Specialist with 1.5 years of experience i
 - talent sourcing, screening, evaluating and candidate engagement using different platforms and channels:  linkedin.com, GitHub.com and other platforms
 - working with different positions, such as: Data Scientist, Data Analyst, Product Manager, .Net, Python Developer, QA/Aut, Web Analyst, Frontend developer (React, 
   Angular), iOS and Android developers, Java dev, Ruby, Golang, Oracle, WPF, Salesforce, UX/UI, GameDev, Flutter, UE4/5 and etc.
-- collaborating with hiring managers and recruiters to build an effective hiring process.
+- collaborating with recruiter to build an effective hiring process.
 ### Doctor | August 2019 - August 2024
 - diagnostics and curation of patients (including surgical)
 - articles writing, using knowledge of statistics
