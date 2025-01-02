@@ -26,5 +26,5 @@ Detail-oriented and motivated Sourcing Specialist with 1.5 years of experience i
 ## Education: 
 Grodno State Medical University 2013-2019
 ## Courses:
-- Stepik course 'Basics of Statistics' 2024 (link to the certificate)
-- Stepik course 'Good, good Python - a training course from Sergey Balakirev' 2024 (link to cert)
+- [Stepik course 'Basics of Statistics' 2024](https://stepik.org/cert/2693560?lang=en)
+- [Stepik course 'Good, good Python - a training course from Sergey Balakirev' 2024](https://stepik.org/cert/2551986?lang=en) 
